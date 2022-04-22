@@ -7,3 +7,4 @@ Un blog increible para el [[curso de Git y Github de platzi](https://platzi.com/
 - > El flujo de trabajo de github etc
 
 Creado por el increible platzi team
+incluye ejemplos en windows linus y mac
