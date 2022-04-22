@@ -5,3 +5,5 @@ Un blog increible para el [[curso de Git y Github de platzi](https://platzi.com/
 #En este curso vemos de todo:
 - > Todos los comandos de git
 - > El flujo de trabajo de github etc
+
+Creado por el increible platzi team
