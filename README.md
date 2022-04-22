@@ -8,3 +8,4 @@ Un blog increible para el [[curso de Git y Github de platzi](https://platzi.com/
 
 Creado por el increible platzi team
 incluye ejemplos en windows linus y mac
+disponible para todas las edades
